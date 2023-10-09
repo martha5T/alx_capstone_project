@@ -7,10 +7,15 @@ It serves as a digital gallery or resume that allows you to visually present you
 Features and Functionality:
 
 Name: Your name tells people who they are interacting with.
+
 Home: This gives the logo and background of your website.
+
 About: The about tells people about your profile in detail. Your qualifiction, achievement and things you like to do.
+
 Services: Here, you tell people about the services you render.
+
 Portfolio: This showcases your projects and achievements. Things that you have done.
+
 Contact: This gives your email address information and location.
 
 Technologies Used:
@@ -28,6 +33,9 @@ Roadmap and future enhancements:
 Contact information:
 
 Name: Martha Tong
+
 Email: marthasiiyatong@gmail.com
+
 Github
+
 LinkedIn
