@@ -11,7 +11,7 @@ Home: This gives the logo and background of your website.
 About: The about tells people about your profile in detail. Your qualifiction, achievement and things you like to do.
 Services: Here, you tell people about the services you render.
 Portfolio: This showcases your projects and achievements. Things that you have done.
-Contact: This gives your email address information, location and phone numder.
+Contact: This gives your email address information and location.
 
 Technologies Used:
 
