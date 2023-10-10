@@ -36,6 +36,4 @@ Name: Martha Tong
 
 Email: marthasiiyatong@gmail.com
 
-<a href="https://drive.google.com/file/d/14PmyXMDQ5k74MIYVrkpGXhe6oBLUbhoB/view?usp=sharing" target="_blank">here</a>
-
-<a href="https://drive.google.com/file/d/14PmyXMDQ5k74MIYVrkpGXhe6oBLUbhoB/view?usp=sharing" target="_blank">flowchart</a>
+<a href="https://drive.google.com/file/d/14PmyXMDQ5k74MIYVrkpGXhe6oBLUbhoB/view?usp=sharing" target="_blank">prototype</a>
