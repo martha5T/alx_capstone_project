@@ -28,6 +28,9 @@ Screenshots or Demo:
 
 Roadmap and future enhancements:
 
+Upload CV
+
+
 
 
 Contact information:
